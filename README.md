@@ -6,7 +6,6 @@
 # About Me
 ## My Interest
  Art - I take interest in all types of art forms creating and viewing.
-
  Traveling - I enjoy traveling, preferably somewhere warm near water. My favorite places so far have been Jamaica and South Korea.
 ## Websites I recommend
 * [Notion](https://www.notion.so) - This website is a good all in one workspace for notes, task management and databases.
