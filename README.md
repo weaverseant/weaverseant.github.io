@@ -10,4 +10,4 @@
 *Traveling - I enjoy traveling, preferably somewhere warm near water
 ## Websites I recommend
 * [Notion](https://www.notion.so) - This website is a good all in one workspace for notes, task management and databases.
-* * [Coursera](https://coursera.org) - This is a great beginner to develpor learning tool for anyone wanting to learn how to code or expand there skills.
+* [Coursera](https://coursera.org) - This is a great beginner to develpor learning tool for anyone wanting to learn how to code or expand there skills.
