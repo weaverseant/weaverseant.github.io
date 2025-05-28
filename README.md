@@ -4,8 +4,10 @@
 3. This repository will hold assignments for CTI 110
 # About Me
 ## My Interest
--I take interest in all types of art forms creating and viewing. 
--I also enjoy traveling, preferably somewhere warm near water. 
+-I take interest in all types of art forms creating and viewing.
+
+-I also enjoy traveling, preferably somewhere warm near water.
+
 -My favorite places so far have been Jamaica and South Korea.
 ## Websites I recommend
 * [Notion](https://www.notion.so) - This website is a good all in one workspace for notes, task management and databases.
