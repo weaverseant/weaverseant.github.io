@@ -1,5 +1,3 @@
-weaverseant.github.io
-
 1.Sean Weaver and stweaver@my.waketech.edu
 
 2.This is my Wake Tech CTI 110 school account 
