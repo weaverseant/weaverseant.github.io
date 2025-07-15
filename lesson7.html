@@ -1,0 +1,30 @@
+
+stack of cylinders with a Play Arrow) :
+Students Table:
+CREATE TABLE STUDENTS (
+STUDENT_ID SERIAL PRIMARY KEY,
+FIRST_NAME VARCHAR(50),
+LAST_NAME VARCHAR(50),
+EMAIL VARCHAR(100),
+ENROLLMENT_DATE DATE
+);
+Assignments Table:
+CREATE TABLE ASSIGNMENTS (
+ASSIGNMENT_ID SERIAL PRIMARY KEY,
+TITLE VARCHAR(100),
+DESCRIPTION TEXT,
+DUE_DATE DATE,
+STUDENT_ID INT REFERENCES STUDENTS(STUDENT_ID)
+);
+3. Execute these commands in the SQL Query tool in pgAdmin. (F5 or the Play BuƩon)
+Step 4: Insert Your Data
+1. Insert your personal data into the Students table. Use the following template and replace the
+placeholders with your informaƟon:
+INSERT INTO STUDENTS (FIRST_NAME, LAST_NAME, EMAIL, ENROLLMENT_DATE)
+VALUES ('YOURFIRSTNAME', 'YOURLASTNAME', 'YOUREMAIL', 'YYYY-MM-DD');
+o Example:
+INSERT INTO STUDENTS (FIRST_NAME, LAST_NAME, EMAIL, ENROLLMENT_DATE)
+VALUES ('JANE', 'DOE', 'JANE.DOE@EXAMPLE.COM', '2023-08-15');
+o The enrollment_date is opƟonal; you may omit it by leaving it blank like this:
+INSERT INTO STUDENTS (FIRST_NAME, LAST_NAME, EMAIL)
+VALUES ('JANE', 'DOE', 'JANE.DOE@EXAMPLE.COM');
